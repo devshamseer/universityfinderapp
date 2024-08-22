@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.UniversityApp.app",
+            "sha256_cert_fingerprints": [
+                "74:B0:FE:79:1C:A9:08:36:D2:FE:FA:54:7D:A1:E6:CB:6A:6B:ED:EC:B3:9F:EA:2B:B4:35:94:32:49:52:0F:71"
+            ]
+        }
+    }
+]
